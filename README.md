@@ -7,6 +7,11 @@ A simple usage of MiniLibX to trace the mouse position with rainbows.
 Run `make`. An executable will compile.
 Run with `./rainbowlines.`
 
+Weee!
+
+---
+### Commands
+
 Press `space` to reset the screen.
 
 Press `ESC` to exit the program.
